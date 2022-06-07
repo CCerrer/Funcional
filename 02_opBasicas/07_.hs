@@ -1,0 +1,1 @@
+splitints xs = ([x | x <- xs, odd x], [x | x <- xs, even x])
