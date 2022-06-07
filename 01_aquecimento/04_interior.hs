@@ -1,0 +1,1 @@
+interior = init . drop 1
